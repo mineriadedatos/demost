@@ -1,5 +1,5 @@
 # 🧠 Demo ST — Streamlit
-🤖 Predicción de Diabetes (Pima Dataset de statsmodels.api.datasets.get_rdataset("Pima.tr", "MASS").data ) para aprender Streamlit
+🤖 Predicción de Diabetes (Pima Dataset de `statsmodels.api.datasets.get_rdataset("Pima.tr", "MASS").data` ) para aprender Streamlit
 
 ---
 
